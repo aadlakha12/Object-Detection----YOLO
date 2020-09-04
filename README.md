@@ -8,4 +8,3 @@ Download the model from this link and place it in data folder.
 https://drive.google.com/file/d/1MmiC0dgtyn7BDb8b1hR0DYOxyITysH-R/view?usp=sharing
 
 
-
